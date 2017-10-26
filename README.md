@@ -14,6 +14,7 @@ only the characters found in both strings.
 Environment
 -	Visual Studio 2017
 -	.NET 4.5
+-	C#
 
 Unit Test Project
 
